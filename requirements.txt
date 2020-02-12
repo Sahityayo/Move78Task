@@ -4,7 +4,7 @@ bs4==0.0.1
 colorama==0.3.9
 cycler==0.10.0
 decorator==4.2.1
-Django==2.0.3
+Django==2.2.10
 djangorestframework==3.9.4
 entrypoints==0.2.3
 html5lib==1.0.1
